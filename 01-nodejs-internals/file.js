@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-//Blocking...
+//Blocking....
 //const result = fs.readFileSync('../Test.txt', 'utf8');
 //console.log(result);
 
