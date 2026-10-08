@@ -1,8 +1,8 @@
 const fs = require("fs");
 
 //Blocking....
-//const result = fs.readFileSync('../Test.txt', 'utf8');
-//console.log(result);
+const result = fs.readFileSync('../Test.txt', 'utf8');
+console.log(result);
 
 
 // Non Blocking...
