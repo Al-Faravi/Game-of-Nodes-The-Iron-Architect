@@ -11,3 +11,6 @@ const port = 4000
 server.listen(port, () => {
   console.log(`Server is running on port...`)
 })
+
+
+console.log("Program is okay!");
